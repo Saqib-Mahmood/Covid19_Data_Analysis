@@ -1,2 +1,4 @@
 # Covid19_Data_Analysis
-I'll add description later
+Simply run the .iypnb file in google colab
+
+(open .iypnb. There will be option on the top to open the file with colab.)
